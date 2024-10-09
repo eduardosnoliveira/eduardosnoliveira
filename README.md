@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-I am Eduardo. Thanks for dropping by! I like to code and build projects using my favorite technologies C# with .NET Core & React and React Native. I'm working on a personal project called [Varzzea](https://varzzea.com.br), a platform that connects amateur soccer players with other players, clubs, referees, arenas and more.
+I am Eduardo. Thanks for dropping by! I like to code and build projects using my favorite technologies C# with .NET Core & React and React Native. In my spare time, I work in two personal projects:
+
+[Varzzea](https://varzzea.com.br) - Connecting amateur soccer players, clubs, referees and arenas in a single place.
+[Hyre](https://hyre.com.br) - Manage your IT company with ease with only one tool.
+
+```csharp
 
 - 🔭 I’m currently working as a Senior Software Enginer at [Base2](https://base2.com.br) for [Bulbe Energia](https://bulbeenergia.com.br/).
 - 🌱 I’m currently learning about software engeeniring and software architecture.
@@ -8,3 +13,4 @@ I am Eduardo. Thanks for dropping by! I like to code and build projects using my
 - 💬 Ask me about: The process of bulding a modular monolith in .NET
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/eduardosnoliveira/)
 - ⚡ Fun fact: I play soccer, voleyball and ping pong. _~~(I'm not good at any of them)~~_
+```
