@@ -5,4 +5,4 @@
 
 ---
 
-Senior Backend Engineer with 5+ years building distributed systems at scale — currently engineering microservices at [CI&T](https://ciandt.com/) · [Itaú](https://www.itau.com.br/) for a promotions and gamification platform serving 50M+ users. I work primarily with .NET/C# on AWS, designing event-driven architectures that stay resilient under load. I treat Clean Architecture, DDD, and SOLID as tools, not religion.
+Senior Backend Engineer with 5+ years building distributed systems at scale. Right now I'm building microservices at [CI&T](https://ciandt.com/) · [Itaú](https://www.itau.com.br/) for a promotions and gamification platform that serves 50M+ users. I work mostly with .NET/C# on AWS, building event-driven architectures that hold up under load. I treat Clean Architecture, DDD, and SOLID as tools, not religion.
