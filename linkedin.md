@@ -4,25 +4,25 @@
 
 ## Headline
 
-Senior Backend Engineer | .NET, C# | AWS, Microservices, DDD | Distributed Systems at 50M+ users scale | English C2 | Open to global remote
+Senior Backend Engineer | C#/.NET & Java/Spring Boot | AWS, Microservices, DDD | Distributed Systems at 50M+ users scale | English C2 | Open to global remote
 
 ---
 
 ## About
 
-Backend engineer working on distributed systems at real production scale. Right now that's microservices at CI&T for a promotions and gamification platform serving 50M+ users.
+Backend engineer working on distributed systems at real production scale. Right now that's microservices at CI&T, on the Itaú account, for a promotions and gamification platform serving 50M+ users.
 
-I work mostly with .NET/C# on AWS, building event-driven architectures that hold up under traffic spikes. Day to day that's API design, performance tuning across DynamoDB/SQL/PostgreSQL, and the observability work (Datadog, Splunk, Grafana) that keeps everything running at scale.
+I work across .NET/C# and Java/Spring Boot on AWS, building event-driven architectures that hold up under traffic spikes. Day to day that's API design, performance tuning across DynamoDB/SQL/PostgreSQL, and the observability work (Datadog, Splunk, Grafana) that keeps everything running at scale.
 
 What I care about:
 
-- Writing code that's boring to debug at 3am — clear domain boundaries, good tests, honest observability
+- Writing code that's boring to debug at 3am: clear domain boundaries, good tests, honest observability
 - Treating Clean Architecture, DDD, and SOLID as tools, not religion
 - Sharing what I learn with the team and growing alongside the engineers around me
 
 Stack I work with day-to-day:
 
-- **Languages & frameworks:** C#, .NET (Core, Framework, 6/7/8+), Entity Framework, Dapper
+- **Languages & frameworks:** C#, .NET (Core, Framework, 6/7/8+), Java, Spring Boot, Spring, Entity Framework, Dapper
 - **Cloud & infra:** AWS / Amazon Web Services (ECS, EC2, Lambda, DynamoDB, S3, SQS, SNS, Glue, CloudWatch), Docker, Kubernetes, Terraform
 - **Data:** SQL Server, PostgreSQL, MariaDB, DynamoDB
 - **Practices:** Microservices, Event-Driven Architecture, DDD, Clean Architecture, Hexagonal Architecture, TDD, Solution Architecture, System Design, CI/CD
@@ -36,11 +36,11 @@ English (C2, EF SET certified) · Portuguese (native)
 
 ## Experience
 
-### Senior Software Engineer | C# & .NET | AWS
+### Senior Software Engineer | C#/.NET & Java/Spring Boot | AWS
 
-**CI&T** · April 2025 – Present · Remote (Brazil)
+**CI&T** (client: Itaú) · April 2025 – Present · Remote (Brazil)
 
-- Build microservices for a promotions and gamification platform serving 50M+ users, and scale the architecture as the product expands from 2 to 3 business segments without breaking backward compatibility.
+- Build microservices in both C#/.NET and Java/Spring Boot for a promotions and gamification platform serving 50M+ users, and scale the architecture as the product expands from 2 to 3 business segments without breaking backward compatibility.
 - Redesign domain contracts and service boundaries between bounded contexts so teams can deliver in parallel with less coupling between them.
 - Run production observability with Datadog, Splunk, and StackSpot. Incidents are faster to catch and diagnose, and MTTR is down.
 - Tune the data and compute layers across DynamoDB, ECS, and EC2 to handle traffic spikes during marketing campaigns, and ship zero-downtime deploys with canary releases and feature flags.
@@ -85,7 +85,7 @@ English (C2, EF SET certified) · Portuguese (native)
 
 ## Top Skills
 
-Amazon Web Services (AWS) · .NET · Microservices
+Java · .NET · Microservices
 
 ---
 

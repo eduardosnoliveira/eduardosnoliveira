@@ -20,14 +20,14 @@
 
 ## Resumo
 
-Engenheiro Backend Sênior com 5+ anos construindo sistemas distribuídos escaláveis e de alta disponibilidade em .NET/C# na AWS. Atualmente desenvolvendo microsserviços na CI&T para uma plataforma de promoções e gamificação que atende 50M+ usuários em vários segmentos de negócio. Experiência sólida em arquitetura orientada a eventos, domain-driven design, otimização de performance e observabilidade em produção. Inglês fluente (C2), aberto a oportunidades remotas globais e realocação com patrocínio de visto.
+Engenheiro Backend Sênior com 5+ anos construindo sistemas distribuídos escaláveis e de alta disponibilidade na AWS, especializado em C#/.NET e Java/Spring Boot. Atualmente desenvolvendo microsserviços na CI&T (conta Itaú) para uma plataforma de promoções e gamificação que atende 50M+ usuários em vários segmentos de negócio. Experiência sólida em arquitetura orientada a eventos, domain-driven design, otimização de performance e observabilidade em produção. Inglês fluente (C2), aberto a oportunidades remotas globais e realocação com patrocínio de visto.
 
 ---
 
 ## Habilidades
 
 **Linguagens & Frameworks**
-C#, .NET 6/7/8, .NET Core, .NET Framework, Entity Framework, Dapper, ASP.NET MVC, REST APIs
+C#, .NET 6/7/8, .NET Core, .NET Framework, Java, Spring Boot, Spring Framework, Entity Framework, Dapper, ASP.NET MVC, REST APIs
 
 **Cloud & DevOps**
 AWS / Amazon Web Services (ECS, EC2, Lambda, DynamoDB, S3, SQS, SNS, Glue, CloudWatch), Docker, Kubernetes, Terraform, Azure DevOps, pipelines CI/CD
@@ -39,7 +39,7 @@ SQL Server, PostgreSQL, MariaDB, DynamoDB (NoSQL), otimização de queries T-SQL
 Microsserviços, Arquitetura Orientada a Eventos, Domain-Driven Design (DDD), Clean Architecture, Arquitetura Hexagonal, SOLID, Test-Driven Development (TDD), Arquitetura de Soluções, System Design, design de sistemas distribuídos, escalabilidade, alta disponibilidade
 
 **Observabilidade & Testes**
-Datadog, Splunk, Grafana, CloudWatch, xUnit, NUnit, NSubstitute, Testcontainers, NBomber (testes de carga/stress)
+Datadog, Splunk, Grafana, CloudWatch, xUnit, NUnit, JUnit, NSubstitute, Testcontainers, NBomber (testes de carga/stress)
 
 **Metodologias**
 Agile/Scrum, code review, pair programming, mentoria técnica, colaboração multifuncional
@@ -48,11 +48,11 @@ Agile/Scrum, code review, pair programming, mentoria técnica, colaboração mul
 
 ## Experiência
 
-### Engenheiro de Software Sênior — .NET, AWS
+### Engenheiro de Software Sênior — C#/.NET, Java/Spring Boot, AWS
 
-**CI&T** · Remoto (Brasil) · Abril 2025 – Presente
+**CI&T** (cliente: Itaú) · Remoto (Brasil) · Abril 2025 – Presente
 
-- Desenvolvo microsserviços para uma plataforma de promoções e gamificação com 50M+ usuários finais, e escalo a arquitetura conforme o produto expande de 2 para 3 segmentos de negócio, sem quebrar a compatibilidade retroativa.
+- Desenvolvo microsserviços em C#/.NET e Java/Spring Boot para uma plataforma de promoções e gamificação com 50M+ usuários finais, e escalo a arquitetura conforme o produto expande de 2 para 3 segmentos de negócio, sem quebrar a compatibilidade retroativa.
 - Redesenho contratos de domínio e fronteiras de serviço entre bounded contexts para que os times entreguem em paralelo, com menos acoplamento entre eles.
 - Toco a observabilidade em produção com Datadog, Splunk e StackSpot. Os incidentes ficaram mais rápidos de detectar e diagnosticar, e o MTTR caiu.
 - Otimizo as camadas de dados e computação em DynamoDB, ECS e EC2 para aguentar picos de tráfego durante campanhas, e faço deploys sem downtime com canary releases e feature flags.

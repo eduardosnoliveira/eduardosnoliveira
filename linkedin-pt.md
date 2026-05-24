@@ -4,25 +4,25 @@
 
 ## Título
 
-Engenheiro Backend Sênior | .NET, C# | AWS, Microsserviços, DDD | Sistemas Distribuídos para 50M+ usuários | Inglês C2 | Aberto a remoto global
+Engenheiro Backend Sênior | C#/.NET & Java/Spring Boot | AWS, Microsserviços, DDD | Sistemas Distribuídos para 50M+ usuários | Inglês C2 | Aberto a remoto global
 
 ---
 
 ## Sobre
 
-Engenheiro backend trabalhando com sistemas distribuídos em escala real de produção. No momento, são microsserviços na CI&T para uma plataforma de promoções e gamificação que atende 50M+ usuários.
+Engenheiro backend trabalhando com sistemas distribuídos em escala real de produção. No momento, são microsserviços na CI&T, na conta do Itaú, para uma plataforma de promoções e gamificação que atende 50M+ usuários.
 
-Trabalho principalmente com .NET/C# na AWS, construindo arquiteturas orientadas a eventos que aguentam picos de tráfego. No dia a dia, isso é design de APIs, otimização de performance em DynamoDB/SQL/PostgreSQL e o trabalho de observabilidade (Datadog, Splunk, Grafana) que mantém tudo de pé em escala.
+Trabalho com .NET/C# e Java/Spring Boot na AWS, construindo arquiteturas orientadas a eventos que aguentam picos de tráfego. No dia a dia, isso é design de APIs, otimização de performance em DynamoDB/SQL/PostgreSQL e o trabalho de observabilidade (Datadog, Splunk, Grafana) que mantém tudo de pé em escala.
 
 O que me importa:
 
-- Escrever código que seja chato de debugar às 3 da manhã — fronteiras de domínio claras, bons testes, observabilidade honesta
+- Escrever código que seja chato de debugar às 3 da manhã: fronteiras de domínio claras, bons testes, observabilidade honesta
 - Tratar Clean Architecture, DDD e SOLID como ferramentas, não como religião
 - Compartilhar o que aprendo com o time e crescer junto com os engenheiros ao redor
 
 Stack do dia a dia:
 
-- **Linguagens & frameworks:** C#, .NET (Core, Framework, 6/7/8+), Entity Framework, Dapper
+- **Linguagens & frameworks:** C#, .NET (Core, Framework, 6/7/8+), Java, Spring Boot, Spring, Entity Framework, Dapper
 - **Cloud & infra:** AWS / Amazon Web Services (ECS, EC2, Lambda, DynamoDB, S3, SQS, SNS, Glue, CloudWatch), Docker, Kubernetes, Terraform
 - **Dados:** SQL Server, PostgreSQL, MariaDB, DynamoDB
 - **Práticas:** Microsserviços, Arquitetura Orientada a Eventos, DDD, Clean Architecture, Arquitetura Hexagonal, TDD, Arquitetura de Soluções, System Design, CI/CD
@@ -36,11 +36,11 @@ Inglês (C2, certificado EF SET) · Português (nativo)
 
 ## Experiência
 
-### Engenheiro de Software Sênior | C# & .NET | AWS
+### Engenheiro de Software Sênior | C#/.NET & Java/Spring Boot | AWS
 
-**CI&T** · Abril 2025 – Presente · Remoto (Brasil)
+**CI&T** (cliente: Itaú) · Abril 2025 – Presente · Remoto (Brasil)
 
-- Desenvolvo microsserviços para uma plataforma de promoções e gamificação com 50M+ usuários finais, e escalo a arquitetura conforme o produto expande de 2 para 3 segmentos de negócio, sem quebrar a compatibilidade retroativa.
+- Desenvolvo microsserviços em C#/.NET e Java/Spring Boot para uma plataforma de promoções e gamificação com 50M+ usuários finais, e escalo a arquitetura conforme o produto expande de 2 para 3 segmentos de negócio, sem quebrar a compatibilidade retroativa.
 - Redesenho contratos de domínio e fronteiras de serviço entre bounded contexts para que os times entreguem em paralelo, com menos acoplamento entre eles.
 - Toco a observabilidade em produção com Datadog, Splunk e StackSpot. Os incidentes ficaram mais rápidos de detectar e diagnosticar, e o MTTR caiu.
 - Otimizo as camadas de dados e computação em DynamoDB, ECS e EC2 para aguentar picos de tráfego durante campanhas, e faço deploys sem downtime com canary releases e feature flags.
@@ -85,7 +85,7 @@ Inglês (C2, certificado EF SET) · Português (nativo)
 
 ## Principais Competências
 
-Amazon Web Services (AWS) · .NET · Microsserviços
+Java · .NET · Microsserviços
 
 ---
 

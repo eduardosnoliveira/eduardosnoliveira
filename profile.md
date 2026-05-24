@@ -20,14 +20,14 @@
 
 ## Summary
 
-Senior Backend Engineer with 5+ years building scalable, high-availability distributed systems in .NET/C# on AWS. Currently building microservices at CI&T for a promotions and gamification platform that serves 50M+ users across several business segments. Deep experience with event-driven architecture, domain-driven design, performance work, and production observability. Fluent English (C2), open to remote roles globally and relocation with visa sponsorship.
+Senior Backend Engineer with 5+ years building scalable, high-availability distributed systems on AWS, specialized in C#/.NET and Java/Spring Boot. Currently building microservices at CI&T (Itaú account) for a promotions and gamification platform that serves 50M+ users across several business segments. Deep experience with event-driven architecture, domain-driven design, performance work, and production observability. Fluent English (C2), open to remote roles globally and relocation with visa sponsorship.
 
 ---
 
 ## Skills
 
 **Languages & Frameworks**
-C#, .NET 6/7/8, .NET Core, .NET Framework, Entity Framework, Dapper, ASP.NET MVC, REST APIs
+C#, .NET 6/7/8, .NET Core, .NET Framework, Java, Spring Boot, Spring Framework, Entity Framework, Dapper, ASP.NET MVC, REST APIs
 
 **Cloud & DevOps**
 AWS / Amazon Web Services (ECS, EC2, Lambda, DynamoDB, S3, SQS, SNS, Glue, CloudWatch), Docker, Kubernetes, Terraform, Azure DevOps, CI/CD pipelines
@@ -39,7 +39,7 @@ SQL Server, PostgreSQL, MariaDB, DynamoDB (NoSQL), T-SQL query optimization, ind
 Microservices, Event-Driven Architecture, Domain-Driven Design (DDD), Clean Architecture, Hexagonal Architecture, SOLID, Test-Driven Development (TDD), Solution Architecture, System Design, distributed systems design, scalability, high availability
 
 **Observability & Testing**
-Datadog, Splunk, Grafana, CloudWatch, xUnit, NUnit, NSubstitute, Testcontainers, NBomber (load/stress testing)
+Datadog, Splunk, Grafana, CloudWatch, xUnit, NUnit, JUnit, NSubstitute, Testcontainers, NBomber (load/stress testing)
 
 **Methodologies**
 Agile/Scrum, code review, pair programming, technical mentoring, cross-functional collaboration
@@ -48,11 +48,11 @@ Agile/Scrum, code review, pair programming, technical mentoring, cross-functiona
 
 ## Experience
 
-### Senior Software Engineer — .NET, AWS
+### Senior Software Engineer — C#/.NET, Java/Spring Boot, AWS
 
-**CI&T** · Remote (Brazil) · April 2025 – Present
+**CI&T** (client: Itaú) · Remote (Brazil) · April 2025 – Present
 
-- Build microservices for a promotions and gamification platform serving 50M+ users, and scale the architecture as the product expands from 2 to 3 business segments without breaking backward compatibility.
+- Build microservices in both C#/.NET and Java/Spring Boot for a promotions and gamification platform serving 50M+ users, and scale the architecture as the product expands from 2 to 3 business segments without breaking backward compatibility.
 - Redesign domain contracts and service boundaries between bounded contexts so teams can deliver in parallel with less coupling between them.
 - Run production observability with Datadog, Splunk, and StackSpot. Incidents are faster to catch and diagnose, and MTTR is down.
 - Tune the data and compute layers across DynamoDB, ECS, and EC2 to handle traffic spikes during marketing campaigns, and ship zero-downtime deploys with canary releases and feature flags.
