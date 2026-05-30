@@ -5,8 +5,8 @@
 :root {
   --ink: #1a1a1a;
   --muted: #555;
-  --accent: #1f3a5f;       /* deep navy */
-  --accent-soft: #c9d4e3;  /* rule tint */
+  --accent: #1f3a5f; /* deep navy */
+  --accent-soft: #c9d4e3; /* rule tint */
   --rule: #d7dce3;
 }
 
@@ -15,7 +15,9 @@
   margin: 1.25cm 1.4cm;
 }
 
-* { box-sizing: border-box; }
+* {
+  box-sizing: border-box;
+}
 
 body {
   font-family: "Helvetica Neue", "Segoe UI", Arial, sans-serif;
@@ -86,7 +88,9 @@ h3 + p {
   color: var(--muted);
 }
 
-p { margin: 5px 0; }
+p {
+  margin: 5px 0;
+}
 
 ul {
   margin: 4px 0 8px;
@@ -98,9 +102,14 @@ li {
   padding-left: 2px;
 }
 
-li::marker { color: var(--accent); }
+li::marker {
+  color: var(--accent);
+}
 
-strong { color: var(--ink); font-weight: 700; }
+strong {
+  color: var(--ink);
+  font-weight: 700;
+}
 
 /* Links blend with text, subtle underline — no raw URLs */
 a {
@@ -109,8 +118,16 @@ a {
   border-bottom: 1px solid var(--accent-soft);
 }
 
-hr { display: none; }
+hr {
+  display: none;
+}
 
 /* Page-break hygiene */
-h2, h3 { break-after: avoid; }
-li, h3 + p { break-inside: avoid; }
+h2,
+h3 {
+  break-after: avoid;
+}
+li,
+h3 + p {
+  break-inside: avoid;
+}

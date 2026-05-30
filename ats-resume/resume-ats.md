@@ -1,8 +1,9 @@
 # Eduardo Oliveira
+
 Senior Software Engineer
 
 Coronel Fabriciano, Brazil · Remote (overlaps US/EU time zones)
-[eduardosnoliveira@gmail.com](mailto:eduardosnoliveira@gmail.com) · [LinkedIn](https://linkedin.com/in/eduardosnoliveira/) · [GitHub](https://github.com/eduardosnoliveira) · [WhatsApp](https://wa.me/5531998486472)
+[eduardosnoliveira@gmail.com](mailto:eduardosnoliveira@gmail.com) · [linkedin.com/in/eduardosnoliveira](https://linkedin.com/in/eduardosnoliveira/) · [github.com/eduardosnoliveira](https://github.com/eduardosnoliveira) · [+5531998486472](https://wa.me/5531998486472)
 
 ## Summary
 
@@ -11,6 +12,7 @@ Senior back-end engineer with 5+ years building microservices and event-driven s
 ## Experience
 
 ### CI&T — Senior Software Engineer
+
 Client: Itaú · C#/.NET, Java/Spring Boot, AWS · April 2025 – Present · Remote
 
 - Built and evolved AWS microservices in C#/.NET and Java/Spring Boot for a 50M+ user platform, supporting expansion from 2 to 3 business segments with zero backward-compatibility breaks
@@ -20,6 +22,7 @@ Client: Itaú · C#/.NET, Java/Spring Boot, AWS · April 2025 – Present · Rem
 - Led ~15 PRs/week in code review and mentored 2 mid-level engineers on event-driven and AWS practices, coordinating delivery with product, QA, and SRE
 
 ### Base2 Tecnologia — Senior Software Engineer
+
 Solar energy platform · .NET, AWS · April 2024 – April 2025 · Remote
 
 - Owned end-to-end design and delivery of REST APIs and sync/async integrations in .NET Core, C#, ASP.NET Core Web API, Entity Framework, and Dapper
@@ -29,6 +32,7 @@ Solar energy platform · .NET, AWS · April 2024 – April 2025 · Remote
 - Shipped customer-facing React/TypeScript frontend alongside the APIs, delivering features end to end without a separate frontend handoff
 
 ### Base2 Tecnologia — Mid-Level Software Engineer
+
 .NET, AWS · January 2023 – April 2024 · Remote
 
 - Delivered core backend features — REST APIs, batch processing, third-party integrations — in .NET Core, ASP.NET Core Web API, Entity Framework, and Dapper
@@ -37,6 +41,7 @@ Solar energy platform · .NET, AWS · April 2024 – April 2025 · Remote
 - Promoted to Senior after ~15 months; ran new-hire onboarding and became the team's reference for backend architecture decisions
 
 ### Markup Sistemas — Junior Software Engineer
+
 .NET Framework, SQL Server · 2021 – 2022 · Ipatinga, Brazil
 
 - Built 4 ERP modules end to end (manufacturing, billing, delivery, point-of-sale) in C#/.NET Framework 4.8, ASP.NET MVC, and Razor for industrial clients
