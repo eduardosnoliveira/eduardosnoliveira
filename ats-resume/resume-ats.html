@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Eduardo Oliveira — Resume</title>
+  <style>
+
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+
+ul.task-list[class]{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+font-size: inherit;
+width: 0.8em;
+margin: 0 0.8em 0.2em -1.6em;
+vertical-align: middle;
+}
+.display.math{display: block; text-align: center; margin: 0.5rem auto;}
+</style>
+  <style type="text/css">
+:root {
+--ink: #1a1a1a;
+--muted: #555;
+--accent: #1f3a5f; 
+--accent-soft: #c9d4e3; 
+--rule: #d7dce3;
+}
+@page {
+size: A4;
+margin: 1.25cm 1.4cm;
+}
+* { box-sizing: border-box; }
+body {
+font-family: "Helvetica Neue", "Segoe UI", Arial, sans-serif;
+font-size: 10.4pt;
+line-height: 1.4;
+color: var(--ink);
+margin: 0;
+-webkit-print-color-adjust: exact;
+print-color-adjust: exact;
+}
+
+h1 {
+font-size: 24pt;
+font-weight: 700;
+letter-spacing: 0.01em;
+color: var(--accent);
+margin: 0;
+}
+
+h1 + p {
+margin: 1px 0 6px;
+font-size: 11.5pt;
+font-weight: 600;
+letter-spacing: 0.04em;
+text-transform: uppercase;
+color: var(--muted);
+}
+
+h1 + p + p {
+margin: 0 0 4px;
+font-size: 9.3pt;
+color: var(--muted);
+padding-bottom: 8px;
+border-bottom: 2px solid var(--accent);
+}
+
+h2 {
+font-size: 11pt;
+font-weight: 700;
+text-transform: uppercase;
+letter-spacing: 0.09em;
+color: var(--accent);
+margin: 16px 0 7px;
+padding-bottom: 3px;
+border-bottom: 1px solid var(--rule);
+}
+
+h3 {
+font-size: 10.8pt;
+font-weight: 700;
+color: var(--ink);
+margin: 11px 0 0;
+}
+
+h3 + p {
+margin: 1px 0 4px;
+font-size: 9.2pt;
+font-style: normal;
+color: var(--muted);
+}
+p { margin: 5px 0; }
+ul {
+margin: 4px 0 8px;
+padding-left: 16px;
+}
+li {
+margin: 2.5px 0;
+padding-left: 2px;
+}
+li::marker { color: var(--accent); }
+strong { color: var(--ink); font-weight: 700; }
+
+a {
+color: var(--accent);
+text-decoration: none;
+border-bottom: 1px solid var(--accent-soft);
+}
+hr { display: none; }
+
+h2, h3 { break-after: avoid; }
+li, h3 + p { break-inside: avoid; }
+</style>
+</head>
+<body>
+<h1 id="eduardo-oliveira">Eduardo Oliveira</h1>
+<p>Senior Software Engineer</p>
+<p>Coronel Fabriciano, Brazil · Remote (overlaps US/EU time zones)<br />
+<a href="mailto:eduardosnoliveira@gmail.com"><span>eduardosnoliveira@gmail.com</span></a>
+· <a href="https://linkedin.com/in/eduardosnoliveira/">LinkedIn</a> · <a href="https://github.com/eduardosnoliveira">GitHub</a> · <a href="https://wa.me/5531998486472">WhatsApp</a></p>
+<h2 id="summary">Summary</h2>
+<p>Senior back-end engineer with 5+ years building microservices and
+event-driven systems on AWS in C#/.NET 8 and Java/Spring Boot. Owns
+design and delivery on a 50M+ user rewards platform across 3 business
+segments, where I cut MTTR ~30% and ran zero-downtime deploys through
+~3x campaign traffic spikes. Strong in Domain-Driven Design, Clean
+Architecture, Apache Kafka, and SQL Server/PostgreSQL/DynamoDB, with
+production observability in Datadog and Splunk. English C2 (EF SET
+certified).</p>
+<h2 id="experience">Experience</h2>
+<h3 id="cit--senior-software-engineer">CI&amp;T — Senior Software
+Engineer</h3>
+<p>Client: Itaú · C#/.NET, Java/Spring Boot, AWS · April 2025 – Present
+· Remote</p>
+<ul>
+<li>Built and evolved AWS microservices in C#/.NET and Java/Spring Boot
+for a 50M+ user platform, supporting expansion from 2 to 3 business
+segments with zero backward-compatibility breaks</li>
+<li>Redesigned domain contracts and service boundaries over async Kafka
+messaging, cutting cross-team coupling and unblocking parallel delivery
+for 4 teams across bounded contexts</li>
+<li>Cut MTTR ~30% by improving production observability with Datadog,
+Splunk, and StackSpot to speed incident detection and root-cause
+analysis</li>
+<li>Tuned DynamoDB, ECS, and EC2 layers to absorb ~3x marketing-campaign
+traffic spikes and ship zero-downtime deploys via canary releases and
+feature flags</li>
+<li>Led ~15 PRs/week in code review and mentored 2 mid-level engineers
+on event-driven and AWS practices, coordinating delivery with product,
+QA, and SRE</li>
+</ul>
+<h3 id="base2-tecnologia--senior-software-engineer">Base2 Tecnologia —
+Senior Software Engineer</h3>
+<p>Solar energy platform · .NET, AWS · April 2024 – April 2025 ·
+Remote</p>
+<ul>
+<li>Owned end-to-end design and delivery of REST APIs and sync/async
+integrations in .NET Core, C#, ASP.NET Core Web API, Entity Framework,
+and Dapper</li>
+<li>Cut response time ~40% on the busiest endpoints via targeted MariaDB
+indexing, query tuning, and Dapper in hot paths</li>
+<li>Took test coverage from 0 to ~90% by building the project&#39;s first
+unit and integration suites (xUnit, NSubstitute, Testcontainers) plus
+NBomber load/stress, all in CI/CD</li>
+<li>Integrated AWS S3, SQS, SNS, CloudWatch, and Lambda for async
+workflows and built Docker dev environments and Grafana dashboards,
+cutting local setup time and giving the team real-time async
+visibility</li>
+<li>Shipped customer-facing React/TypeScript frontend alongside the
+APIs, delivering features end to end without a separate frontend
+handoff</li>
+</ul>
+<h3 id="base2-tecnologia--mid-level-software-engineer">Base2 Tecnologia
+— Mid-Level Software Engineer</h3>
+<p>.NET, AWS · January 2023 – April 2024 · Remote</p>
+<ul>
+<li>Delivered core backend features — REST APIs, batch processing,
+third-party integrations — in .NET Core, ASP.NET Core Web API, Entity
+Framework, and Dapper</li>
+<li>Cut production regressions ~50% by introducing automated unit,
+integration, and load testing to a manual-QA team</li>
+<li>Cut new-developer setup from ~1 day to under 1 hour by
+containerizing local development with Docker Compose</li>
+<li>Promoted to Senior after ~15 months; ran new-hire onboarding and
+became the team&#39;s reference for backend architecture decisions</li>
+</ul>
+<h3 id="markup-sistemas--junior-software-engineer">Markup Sistemas —
+Junior Software Engineer</h3>
+<p>.NET Framework, SQL Server · 2021 – 2022 · Ipatinga, Brazil</p>
+<ul>
+<li>Built 4 ERP modules end to end (manufacturing, billing, delivery,
+point-of-sale) in C#/.NET Framework 4.8, ASP.NET MVC, and Razor for
+industrial clients</li>
+<li>Cut report run times ~50% on large datasets by tuning T-SQL queries,
+stored procedures, and Entity Framework on SQL Server</li>
+<li>Cut daily data-entry time for ~50 internal users by reworking the
+backoffice UI in HTML, CSS, and jQuery</li>
+</ul>
+<h2 id="languages--technologies">Languages &amp; Technologies</h2>
+<p><strong>Languages:</strong> C#, Java, TypeScript, JavaScript,
+SQL<br />
+<strong>Backend:</strong> .NET 8/7/6/Core, ASP.NET Core, ASP.NET Core
+Web API, Spring Boot, Entity Framework Core, Dapper, LINQ<br />
+<strong>Cloud &amp; DevOps:</strong> AWS (ECS, EC2, Lambda, DynamoDB,
+S3, SQS, SNS, CloudWatch), Docker, Kubernetes, Terraform, CI/CD, GitHub
+Actions, Azure DevOps<br />
+<strong>Data:</strong> SQL Server, PostgreSQL, MariaDB, DynamoDB<br />
+<strong>Architecture:</strong> Microservices, Event-Driven Architecture,
+Apache Kafka, Domain-Driven Design, Clean/Hexagonal Architecture, SOLID,
+Distributed Systems<br />
+<strong>Testing &amp; Observability:</strong> xUnit, NSubstitute,
+Testcontainers, NBomber, Datadog, Splunk, Grafana</p>
+<h2 id="certifications">Certifications</h2>
+<ul>
+<li>AWS Certified Solutions Architect – Associate (in progress, target
+2026)</li>
+<li>EF SET English Certificate — C2 Proficient (71/100), 2023</li>
+</ul>
+<h2 id="education">Education</h2>
+<ul>
+<li><strong>B.S. in Computer Science</strong> — Estácio, Brazil (in
+progress, expected 2027)</li>
+<li><strong>Postgraduate, Software Architecture</strong> — Instituto
+Faculeste, 2025</li>
+</ul>
+</body>
+</html>

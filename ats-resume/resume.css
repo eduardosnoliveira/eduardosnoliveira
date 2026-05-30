@@ -1,0 +1,116 @@
+/* Single-column, ATS-safe resume style for human-facing PDF.
+   Text stays selectable (no images, no layout tables, no multi-column),
+   so ATS parses it fine; the styling is purely visual polish. */
+
+:root {
+  --ink: #1a1a1a;
+  --muted: #555;
+  --accent: #1f3a5f;       /* deep navy */
+  --accent-soft: #c9d4e3;  /* rule tint */
+  --rule: #d7dce3;
+}
+
+@page {
+  size: A4;
+  margin: 1.25cm 1.4cm;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  font-family: "Helvetica Neue", "Segoe UI", Arial, sans-serif;
+  font-size: 10.4pt;
+  line-height: 1.4;
+  color: var(--ink);
+  margin: 0;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+/* ---- Header: name + role + contact ---- */
+
+h1 {
+  font-size: 24pt;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  color: var(--accent);
+  margin: 0;
+}
+
+/* Role subtitle (paragraph right after the name) */
+h1 + p {
+  margin: 1px 0 6px;
+  font-size: 11.5pt;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+/* Contact block (second paragraph after the name) */
+h1 + p + p {
+  margin: 0 0 4px;
+  font-size: 9.3pt;
+  color: var(--muted);
+  padding-bottom: 8px;
+  border-bottom: 2px solid var(--accent);
+}
+
+/* ---- Section headings ---- */
+
+h2 {
+  font-size: 11pt;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+  color: var(--accent);
+  margin: 16px 0 7px;
+  padding-bottom: 3px;
+  border-bottom: 1px solid var(--rule);
+}
+
+/* ---- Experience / education entries ---- */
+
+h3 {
+  font-size: 10.8pt;
+  font-weight: 700;
+  color: var(--ink);
+  margin: 11px 0 0;
+}
+
+/* Meta line directly under an entry heading (company · stack · dates) */
+h3 + p {
+  margin: 1px 0 4px;
+  font-size: 9.2pt;
+  font-style: normal;
+  color: var(--muted);
+}
+
+p { margin: 5px 0; }
+
+ul {
+  margin: 4px 0 8px;
+  padding-left: 16px;
+}
+
+li {
+  margin: 2.5px 0;
+  padding-left: 2px;
+}
+
+li::marker { color: var(--accent); }
+
+strong { color: var(--ink); font-weight: 700; }
+
+/* Links blend with text, subtle underline — no raw URLs */
+a {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid var(--accent-soft);
+}
+
+hr { display: none; }
+
+/* Page-break hygiene */
+h2, h3 { break-after: avoid; }
+li, h3 + p { break-inside: avoid; }
