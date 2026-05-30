@@ -14,13 +14,13 @@
 - **Phone:** +55 31 998486472
 - **LinkedIn:** https://linkedin.com/in/eduardosnoliveira
 - **GitHub:** https://github.com/eduardosnoliveira
-- **Work preference:** Remote-first · Works US time zones · Open to full-time or contract with US companies
+- **Work preference:** Remote-first · Overlaps US and EU time zones · Open to full-time or contract
 
 ---
 
 ## Summary
 
-Senior Backend Engineer, 5+ years building scalable, high-availability distributed systems on AWS, mainly in C#/.NET and Java/Spring Boot. Right now I build microservices at CI&T (Itaú account) for a rewards platform that serves 50M+ users across several business segments — customers earn points using bank products in the app, climb tiers, and spend them on coupons, discounts, and perks like better loan rates. Strong background in event-driven architecture, domain-driven design, performance tuning, and production observability. English C2, comfortable working US time zones. Open to remote roles with US companies, full-time or contract.
+Senior Backend Engineer, 5+ years building scalable, high-availability distributed systems on AWS, mainly in C#/.NET and Java/Spring Boot. Right now I build microservices at CI&T (Itaú account) for a rewards platform that serves 50M+ users across several business segments — customers earn points using bank products in the app, climb tiers, and spend them on coupons, discounts, and perks like better loan rates. Strong background in event-driven architecture, domain-driven design, performance tuning, and production observability. English C2, comfortable working US and EU time zones. Open to remote roles with US and EU companies, full-time or contract.
 
 ---
 
@@ -54,7 +54,7 @@ Agile/Scrum, code review, pair programming, technical mentoring, cross-functiona
 
 - Build microservices in C#/.NET and Java/Spring Boot for the rewards platform (50M+ users), and scaled the architecture as it grew from 2 to 3 business segments without breaking backward compatibility.
 - Redesigned domain contracts and service boundaries between bounded contexts, with services communicating asynchronously over Kafka, so teams could ship in parallel without stepping on each other.
-- Set up production observability in Datadog, Splunk, and StackSpot. We catch and diagnose incidents faster now, and MTTR dropped.
+- Set up production observability in Datadog, Splunk, and StackSpot. We catch and diagnose incidents faster now, and MTTR dropped about 30%.
 - Tuned DynamoDB, ECS, and EC2 to survive the traffic spikes during marketing campaigns, and moved us to zero-downtime deploys with canary releases and feature flags.
 - Lead code reviews and technical discussions, mentor mid-level engineers on event-driven patterns and AWS, and keep delivery in sync with product, QA, and SRE.
 
@@ -64,7 +64,7 @@ Agile/Scrum, code review, pair programming, technical mentoring, cross-functiona
 
 - Owned the design and delivery of REST APIs and sync/async integrations for a solar energy platform, in .NET Core, C#, Entity Framework, and Dapper.
 - Sped up MariaDB on the busiest routes with targeted indexing, query tuning, and Dapper in the hot paths. I/O throughput on those endpoints improved noticeably.
-- Built the test suites the project never had: unit and integration with xUnit, NSubstitute, and Testcontainers, load and stress with NBomber, all in CI/CD.
+- Built the test suites the project never had and took coverage from 0 to about 90%: unit and integration with xUnit, NSubstitute, and Testcontainers, load and stress with NBomber, all in CI/CD.
 - Set up isolated Docker dev environments and Grafana dashboards, and wired AWS S3, SQS, SNS, CloudWatch, and Lambda into the async workflows.
 - Built customer-facing frontend in React and TypeScript alongside the APIs, so I could ship features end to end instead of waiting on a separate frontend handoff.
 - Got promoted from mid-level after a steady run on critical features. Ran onboarding for new hires and became the person people came to about backend architecture.

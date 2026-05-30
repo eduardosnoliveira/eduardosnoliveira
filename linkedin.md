@@ -4,7 +4,7 @@
 
 ## Headline
 
-Senior Software Engineer | .NET/C# + Java/Spring Boot | AWS · Microservices · Event-Driven | English C2 | Remote, US time zones
+Senior Software Engineer | .NET/C# + Java/Spring Boot | AWS · Microservices · Event-Driven | English C2 | Remote, US/EU time zones
 
 <!-- Alternatives:
 A) Senior Backend Engineer | .NET & Java/Spring Boot on AWS | Microservices, DDD, 50M+ users | Fluent English (C2) | Remote (US hours)
@@ -37,7 +37,7 @@ English (C2, EF SET certified) · Portuguese (native)
 
 - Build microservices in C#/.NET and Java/Spring Boot for the rewards platform (50M+ users), and scaled the architecture as it grew from 2 to 3 business segments without breaking backward compatibility.
 - Redesigned domain contracts and service boundaries between bounded contexts, with services communicating asynchronously over Kafka, so teams could ship in parallel without stepping on each other.
-- Set up production observability in Datadog, Splunk, and StackSpot. We catch and diagnose incidents faster now, and MTTR dropped.
+- Set up production observability in Datadog, Splunk, and StackSpot. We catch and diagnose incidents faster now, and MTTR dropped about 30%.
 - Tuned DynamoDB, ECS, and EC2 to survive the traffic spikes during marketing campaigns, and moved us to zero-downtime deploys with canary releases and feature flags.
 - Lead code reviews and technical discussions, mentor mid-level engineers on event-driven patterns and AWS, and keep delivery in sync with product, QA, and SRE.
 
@@ -47,7 +47,7 @@ English (C2, EF SET certified) · Portuguese (native)
 
 - Owned the design and delivery of REST APIs and sync/async integrations for a solar energy platform, in .NET Core, C#, Entity Framework, and Dapper.
 - Sped up MariaDB on the busiest routes with targeted indexing, query tuning, and Dapper in the hot paths. I/O throughput on those endpoints improved noticeably.
-- Built the test suites the project never had: unit and integration with xUnit, NSubstitute, and Testcontainers, load and stress with NBomber, all in CI/CD.
+- Built the test suites the project never had and took coverage from 0 to about 90%: unit and integration with xUnit, NSubstitute, and Testcontainers, load and stress with NBomber, all in CI/CD.
 - Set up isolated Docker dev environments and Grafana dashboards, and wired AWS S3, SQS, SNS, CloudWatch, and Lambda into the async workflows.
 - Built customer-facing frontend in React and TypeScript alongside the APIs, so I could ship features end to end instead of waiting on a separate frontend handoff.
 - Got promoted from mid-level after a steady run on critical features. Ran onboarding for new hires and became the person people came to about backend architecture.
