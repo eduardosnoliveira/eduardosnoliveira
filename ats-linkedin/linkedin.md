@@ -13,6 +13,14 @@ B) Senior Software Engineer — .NET/C# + Java backend at 50M-user scale | AWS, 
 
 ---
 
+## Banner
+
+One line of positioning, searchable keywords, clean:
+
+`Senior Software Engineer · .NET/C# + Java/Spring Boot · AWS · Microservices · Event-Driven · 50M+ users · Remote (US hours)`
+
+---
+
 ## About
 
 I write backend services for a bank rewards platform that about 50 million people use, across 3 business segments. You earn points using Itaú products in the app, climb tiers, and spend them on coupons, discounts, better loan rates, that kind of thing. The interesting part of my job is keeping it up when a campaign triples (~3x) traffic overnight — we absorb it with no downtime and cut MTTR ~30% along the way.
@@ -21,7 +29,7 @@ Most of it is .NET and C# (ASP.NET Core, Web API), some Java and Spring Boot, al
 
 I care a lot about code being clear enough that nobody gets paged over it at 2am. I reach for Clean Architecture, DDD and SOLID when they help and leave them alone when they don't — I've seen all three turn into busywork. I also review a lot of PRs and pair with the mid-level devs on the team, which turned out to be the part of the job I like most.
 
-Currently studying for the AWS Solutions Architect Associate and wrapping up a postgrad in software architecture. I work remotely with US companies, overlap US time zones comfortably, and I'm open to full-time or contract.
+Currently studying for the AWS Solutions Architect Associate and wrapping up a postgrad in software architecture. I work remotely with US companies and overlap US time zones comfortably. Open to full-time or contract — reach me at **eduardosnoliveira@gmail.com**.
 
 **Stack:** C#, .NET (Core/6/7/8+), ASP.NET Core, ASP.NET Core Web API, Java, Spring Boot, Entity Framework, Dapper · AWS (ECS, EC2, Lambda, DynamoDB, S3, SQS, SNS, CloudWatch), Docker, Kubernetes, Terraform · SQL Server, PostgreSQL, MariaDB · Microservices, Event-Driven, DDD, Clean/Hexagonal Architecture, TDD, CI/CD · Datadog, Splunk, Grafana, xUnit, Testcontainers, NBomber
 
@@ -101,3 +109,46 @@ LinkedIn allows 50 skills and Recruiter search filters on this list — fill all
 
 - Portuguese — Native or Bilingual
 - English — Full Professional
+
+---
+
+## Featured
+
+Pin 2–4 clickable proofs, each with goal / stack / outcome:
+
+- **GitHub** — a well-documented backend repo (microservice, event-driven sample, or a perf/testing project). Goal · Stack · Outcome in the description.
+- **Resume PDF** — the ATS resume, current version.
+- **Project / case study** — the 0→90% test-coverage work or the 3x-traffic zero-downtime story, written up short.
+- (Optional) a talk, article, or slides if available.
+
+---
+
+## Recommendations
+
+Aim for 2–3 specific recommendations. Pre-write the angle, ask the recommender to tweak:
+
+- **Manager at CI&T / Itaú** — the ~30% MTTR cut and absorbing 3x campaign traffic with zero downtime.
+- **Lead/peer at Base2** — taking test coverage 0→90% and the ~40% MariaDB latency cut; promotion from mid to senior.
+- **Mid-level dev mentored** — the pairing/code-review impact (concrete, names a thing learned).
+
+---
+
+## Open to Work
+
+- **Enable the private "Open to Job Opportunities"** setting (recruiter-visible only).
+- Target titles: `Senior Software Engineer`, `Senior Backend Engineer`, `Senior .NET Engineer`.
+- Locations: `Remote` (United States), plus EU if targeting EU.
+- Start date + "open to contract" flagged.
+- **Do NOT** put the green #OpenToWork ring or "looking for work" in the headline — wastes the top ranking field.
+
+---
+
+## Settings checklist
+
+- [ ] **Photo** — professional head-and-shoulders, plain background, face ~60–65% of frame.
+- [ ] **Banner** — the line above, no clutter.
+- [ ] **Custom URL** — `linkedin.com/in/eduardo-oliveira-...` (clean first-last).
+- [ ] **Public + discoverable** profile.
+- [ ] **Profile language: English** (US/EU recruiters search in English).
+- [ ] **Pin top 3 skills:** .NET · Microservices · AWS.
+- [ ] **Weekly activity (~15 min):** reply to new connections, comment on 2 in-domain posts, share one project/metric update — "posted in last 30 days" is a recruiter filter.

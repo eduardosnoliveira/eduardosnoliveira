@@ -16,10 +16,10 @@ Senior back-end engineer with 5+ years building microservices and event-driven s
 Client: Itaú · C#/.NET, Java/Spring Boot, AWS · April 2025 – Present · Remote
 
 - Built and evolved AWS microservices in C#/.NET and Java/Spring Boot for a 50M+ user platform, supporting expansion from 2 to 3 business segments with zero backward-compatibility breaks
-- Redesigned domain contracts and service boundaries over async Kafka messaging, cutting cross-team coupling and unblocking parallel delivery for 4 teams across bounded contexts
+- Redesigned domain contracts and service boundaries over async Kafka, cutting cross-team coupling and unblocking parallel delivery for 4 teams
 - Cut MTTR ~30% by improving production observability with Datadog, Splunk, and StackSpot to speed incident detection and root-cause analysis
 - Tuned DynamoDB, ECS, and EC2 layers to absorb ~3x marketing-campaign traffic spikes and ship zero-downtime deploys via canary releases and feature flags
-- Led ~15 PRs/week in code review and mentored 2 mid-level engineers on event-driven and AWS practices, coordinating delivery with product, QA, and SRE
+- Led ~15 PRs/week in code review and mentored 2 mid-level engineers on event-driven and AWS practices
 
 ### Base2 Tecnologia — Senior Software Engineer
 

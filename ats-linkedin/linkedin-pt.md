@@ -14,6 +14,14 @@ B) Senior Software Engineer — .NET/C# + Java backend at 50M-user scale | AWS, 
 
 ---
 
+## Banner
+
+Uma linha de posicionamento, em inglês (recruiters buscam em inglês), palavras-chave buscáveis, limpo:
+
+`Senior Software Engineer · .NET/C# + Java/Spring Boot · AWS · Microservices · Event-Driven · 50M+ users · Remote (US hours)`
+
+---
+
 ## Sobre
 
 Escrevo os serviços de backend de uma plataforma de recompensas de banco que uns 50 milhões de pessoas usam, em 3 segmentos de negócio. Você acumula pontos usando produtos do Itaú no app, sobe de nível e gasta esses pontos em cupons, descontos, taxas de empréstimo melhores, esse tipo de coisa. A parte interessante do meu trabalho é manter isso de pé quando uma campanha triplica (~3x) o tráfego de um dia para o outro — absorvemos sem downtime e cortamos o MTTR ~30% no caminho.
@@ -22,7 +30,7 @@ A maior parte é .NET e C# (ASP.NET Core, Web API), um pouco de Java e Spring Bo
 
 Me importo bastante com código claro o suficiente para ninguém ser acordado por causa dele às 2 da manhã. Uso Clean Architecture, DDD e SOLID quando ajudam e deixo de lado quando não — já vi os três virarem burocracia. Também faço bastante code review e pareio com os devs plenos do time, que acabou sendo a parte do trabalho que mais gosto.
 
-No momento estou estudando para a AWS Solutions Architect Associate e terminando uma pós em Arquitetura de Software. Trabalho remoto com empresas dos EUA, tenho overlap tranquilo com os fusos americanos, e estou aberto a full-time ou contrato.
+No momento estou estudando para a AWS Solutions Architect Associate e terminando uma pós em Arquitetura de Software. Trabalho remoto com empresas dos EUA e tenho overlap tranquilo com os fusos americanos. Aberto a full-time ou contrato — me chame em **eduardosnoliveira@gmail.com**.
 
 **Stack:** C#, .NET (Core/6/7/8+), ASP.NET Core, ASP.NET Core Web API, Java, Spring Boot, Entity Framework, Dapper · AWS (ECS, EC2, Lambda, DynamoDB, S3, SQS, SNS, CloudWatch), Docker, Kubernetes, Terraform · SQL Server, PostgreSQL, MariaDB · Microsserviços, Event-Driven, DDD, Clean/Arquitetura Hexagonal, TDD, CI/CD · Datadog, Splunk, Grafana, xUnit, Testcontainers, NBomber
 
@@ -102,3 +110,46 @@ O LinkedIn permite 50 competências e a busca do Recruiter filtra por essa lista
 
 - Português — Nativo
 - Inglês — Proficiência Profissional Plena (C2)
+
+---
+
+## Featured (Destaques)
+
+Fixe 2–4 provas clicáveis, cada uma com objetivo / stack / resultado:
+
+- **GitHub** — um repo de backend bem documentado (microsserviço, exemplo event-driven, ou um projeto de performance/testes). Objetivo · Stack · Resultado na descrição.
+- **Currículo PDF** — o resume ATS, versão atual.
+- **Projeto / case** — o trabalho de cobertura de testes 0→90% ou a história de 3x de tráfego sem downtime, em resumo curto.
+- (Opcional) palestra, artigo ou slides, se houver.
+
+---
+
+## Recomendações
+
+Mire em 2–3 recomendações específicas. Pré-escreva o ângulo e peça para a pessoa ajustar:
+
+- **Gestor na CI&T / Itaú** — o corte de ~30% no MTTR e absorver 3x de tráfego de campanha sem downtime.
+- **Líder/par na Base2** — levar a cobertura de testes de 0→90% e o corte de ~40% na latência do MariaDB; promoção de Pleno para Sênior.
+- **Dev pleno mentorado** — o impacto do pareamento/code review (concreto, cita algo aprendido).
+
+---
+
+## Open to Work
+
+- **Ative o recurso privado "Aberto a oportunidades"** (visível só para recruiters).
+- Títulos-alvo: `Senior Software Engineer`, `Senior Backend Engineer`, `Senior .NET Engineer`.
+- Locais: `Remote` (Estados Unidos), e EU se for alvo.
+- Data de início + "aberto a contrato" sinalizados.
+- **NÃO** use o anel verde #OpenToWork nem "procurando trabalho" no título — desperdiça o campo de maior ranking.
+
+---
+
+## Checklist de configurações
+
+- [ ] **Foto** — cabeça e ombros, fundo neutro, rosto ~60–65% do quadro.
+- [ ] **Banner** — a linha acima, sem poluição.
+- [ ] **URL personalizada** — `linkedin.com/in/eduardo-oliveira-...` (nome-sobrenome limpo).
+- [ ] **Perfil público + descobrível.**
+- [ ] **Idioma do perfil: Inglês** (recruiters US/EU buscam em inglês).
+- [ ] **Fixar top 3 competências:** .NET · Microservices · AWS.
+- [ ] **Atividade semanal (~15 min):** responder novas conexões, comentar em 2 posts da área, compartilhar uma atualização de projeto/métrica — "publicou nos últimos 30 dias" é filtro de recruiter.
